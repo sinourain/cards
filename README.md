@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+Cards is only another Elixir Language practice project
 
 ## Installation
 
